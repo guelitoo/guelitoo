@@ -1,0 +1,5 @@
+- 👋 Oi, eu sou Miguel (@guelitoo);
+- 👀 Estou interessado em inovar na tecnologia;
+- 🌱 Atualmente estou aprendendo Desenvolvimento de Sistemas no Senai;
+- 📫 Contato pelo instagram: @og.miguels;
+- ⚡ Curiosidades: Sou músico...
