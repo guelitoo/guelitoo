@@ -1,5 +1,13 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,nodejs,figma,github,linux,postman,vite,discord,linkedin,instagram" />
+</a>
+  <br />
+
+  </div>
+
 <!--
 **guelitoo/guelitoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
