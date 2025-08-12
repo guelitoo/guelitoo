@@ -26,7 +26,7 @@ Aqui no meu GitHub, você vai encontrar projetos, exercícios e experimentos que
 ## 🚀 Minhas Skills
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,nodejs,figma,github,linux,postman,vite,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,nodejs,figma,github,linux,postman,vite,discord,linkedin,instagram,discord" />
 </a>
   <br />
 
