@@ -45,7 +45,7 @@ Aqui no meu GitHub você encontrará projetos acadêmicos, APIs REST, estudos pr
 <div align="center">
   <a href="https://github.com/SEU-USUARIO">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guelitoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guelitoo&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
